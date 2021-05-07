@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jnaEM2WOmnRHJr_eYVBbFUP1plV-EcP_mg&usqp=CAU" height="400"/>
+  <img src="https://twistedsifter.com/wp-content/uploads/2018/12/bear-waving.jpg?w=800" height="400"/>
 </p>
 <hr>
 <h1 align="center">Hi, I'm DaiDH</h1>
