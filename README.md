@@ -3,5 +3,5 @@
 </p>
 <hr>
 <h1 align="center">Hi, I'm DaiDH</h1>
-<h3 align="center">I am from VietNam with</h3>
+<h3 align="center">I am from VietNam</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=id1945" alt="id1945"/> </p>
