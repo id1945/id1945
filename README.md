@@ -4,6 +4,5 @@
 <hr>
 <h1 align="center">Hi, I'm DaiDH</h1>
 <h3 align="center">I am from VietNam</h3>
-<img src="https://raw.githubusercontent.com/id1945/id1945/main/profile.PNG" height="100%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=id1945" alt="id1945"/> </p>
 
