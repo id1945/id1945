@@ -8,3 +8,12 @@
 <h3 align="center">I am from VietNam</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=id1945" alt="id1945"/> </p>
 
+
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,linux,js,ts,vscode)](https://skillicons.dev)
+
+<hr>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id1945&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=id1945&show_icons=true&theme=radical)
