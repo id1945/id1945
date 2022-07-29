@@ -1,5 +1,6 @@
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,nodejs,nuxtjs,dotnet,linux,js,ts,vscode)](https://skillicons.dev)
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,dotnet,linux,js,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,nodejs,nuxtjs,dotnet,linux,js,ts,vscode)](https://skillicons.dev)
 
   ![id1945's github stats](https://github-readme-stats.vercel.app/api?username=id1945&count_private=true&show_icons=true&theme=tokyonight)
 
